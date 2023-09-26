@@ -26,6 +26,7 @@ linkedin: https://www.linkedin.com/in/likeur-off-47984327a/
 -ANGULAR
 -GIT
 -GITHUB
+https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg
 
 
 
