@@ -1,10 +1,27 @@
 ### Hi there i"m Likeur a creative frontend web developer👋
 
 based in DRC, i'm an undergraduated student actually in thirtieth licence in computer science
-more specificaly in Network and telecommunication.
+more specificaly in Network and telecommunication, i'm apart of the github global campus and
+Google developer student club, i'm a passionate about code and web developement in general 
+
+I have Seven(7) months experience in front-end web development with web technologies using HTML, CSS, Javascript, Tailwind CSS, Angular. I also have experience in creative front-end web development and in integration of web templates. I've designed and developed user friendly and completely clean interfaces. I look forward to working with you soon.
 
 # 💫 About Me:
-- 🌱 I’m currently learning<br>  <br>- Angular<br>- Frontend Web developement<br><br>- 👯 I’m looking to collaborate on<br>  <br>- Some excited project in frontend developement<br>
+- 🌱 I’m currently learning<br>  <br>
+
+- Angular <br>
+- Creative Frontend Web developement<br>
+- System  Administration
+
+- 👯 I’m looking to collaborate on<br>  <br>
+
+- Some excited project in frontend developement <br>
+-i like to contribute on openSources project
+
+## Languages 
+
+-French (Fluent)
+-English (Intermediate level)
 
 
 ## 🌐 Socials:
