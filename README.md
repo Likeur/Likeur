@@ -1,22 +1,28 @@
+
+![Black and Yellow Dark Gamer Survival YouTube Banner](https://github.com/Likeur/Likeur/assets/102558960/233ae108-a31a-4b30-b4ee-52cc971fbfc7)
+
+
 ### Hi there i"m Likeur a creative frontend web developer👋
 
-based in DRC, i'm an undergraduated student actually in thirtieth licence in computer science
-more specificaly in Network and telecommunication, i'm apart of the github global campus and
+based in DRC, i'm an undergraduated student actually in 3e licence in computer science
+more specificaly in Network and telecommunication, i start my journey as a creative frontend developer since January 2023, 
+and now i gained a  lot of concept and skills about frontend development, i'm apart of the github global campus and
 Google developer student club, i'm a passionate about code and web developement in general 
 
-I have Seven(7) months experience in front-end web development with web technologies using HTML, CSS, Javascript, Tailwind CSS, Angular. I also have experience in creative front-end web development and in integration of web templates. I've designed and developed user friendly and completely clean interfaces. I look forward to working with you soon.
+I have Eleven(11) months experience in front-end web development with web technologies using HTML, CSS, Javascript, Tailwind CSS, Angular. I also have experience in creative front-end web development such as animation and transition using javascript libbrairies like GSAP, Lenis, BARBAJS, and also in integration of web templates. I've designed and developed user friendly and completely clean interfaces. I look forward to working with you soon.
 
 # 💫 About Me:
-- 🌱 I’m currently learning<br>  <br>
+- 🌱 I’m currently learning <br>  <br>
 
 - Angular <br>
 - Creative Frontend Web developement<br>
 - System  Administration
 
-- 👯 I’m looking to collaborate on<br>  <br>
+- 👯 I’m looking to collaborate on <br>  <br>
 
 - Some excited project in frontend developement <br>
--i like to contribute on openSources project
+- i like to contribute on openSources project
+- i've a lot of open source project in my github
 
 ## Languages 
 
