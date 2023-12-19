@@ -3,7 +3,8 @@
 ![Blue and White Abstract Technology LinkedIn Banner (2)](https://github.com/Likeur/Likeur/assets/102558960/a8446c3b-be71-4de5-8951-173e82c904f1)
 
 
-### Hi there i"m Likeur a creative frontend web developer👋
+# Hi there i"m Likeur 
+## creative frontend developer 👋
 
 based in DRC, i'm an undergraduated student actually in 3e licence in computer science
 more specificaly in Network and telecommunication, i start my journey as a creative frontend developer since January 2023, 
