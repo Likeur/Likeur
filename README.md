@@ -14,8 +14,10 @@ I have Eleven(11) months experience in front-end web development with web techno
 
 # 💫 interesting :
 
-## frontend : Angular , Tailwindcss
-## Backend : FireBase 
+## Favorite Language : Javascript / TypeScript
+## Frontend Frameworks : Angular , Tailwindcss
+## Frontend Technos : Html , Css
+## Backend : FireBase
 ## Animation : GSAP
 ## Maquettage : Figma and Adobe XD
 
