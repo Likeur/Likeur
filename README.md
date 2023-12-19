@@ -1,5 +1,6 @@
 
-![Black and Yellow Dark Gamer Survival YouTube Banner](https://github.com/Likeur/Likeur/assets/102558960/233ae108-a31a-4b30-b4ee-52cc971fbfc7)
+
+![Blue and White Abstract Technology LinkedIn Banner (2)](https://github.com/Likeur/Likeur/assets/102558960/a8446c3b-be71-4de5-8951-173e82c904f1)
 
 
 ### Hi there i"m Likeur a creative frontend web developer👋
@@ -11,12 +12,14 @@ Google developer student club, i'm a passionate about code and web developement 
 
 I have Eleven(11) months experience in front-end web development with web technologies using HTML, CSS, Javascript, Tailwind CSS, Angular. I also have experience in creative front-end web development such as animation and transition using javascript libbrairies like GSAP, Lenis, BARBAJS, and also in integration of web templates. I've designed and developed user friendly and completely clean interfaces. I look forward to working with you soon.
 
-# 💫 About Me:
-- 🌱 I’m currently learning <br>  <br>
+# 💫 interesting :
 
-- Angular <br>
-- Creative Frontend Web developement<br>
-- System  Administration
+## frontend : Angular , Tailwindcss
+## Backend : FireBase 
+## Animation : GSAP
+## Maquettage : Figma and Adobe XD
+
+-
 
 - 👯 I’m looking to collaborate on <br>  <br>
 
