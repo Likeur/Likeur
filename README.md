@@ -1,6 +1,7 @@
 
 
-![Blue and White Abstract Technology LinkedIn Banner (2)](https://github.com/Likeur/Likeur/assets/102558960/a8446c3b-be71-4de5-8951-173e82c904f1)
+![Blue and White Abstract Technology LinkedIn Banner (1)](https://github.com/user-attachments/assets/48c6bad9-a6a3-439d-988c-e10189c320c9)
+
 
 
 Before we start : take a look at my online portfolio
