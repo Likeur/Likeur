@@ -61,6 +61,8 @@ More focuse on front-end web development with web technologies using HTML, CSS, 
 ---
 [![](https://visitcount.itsvg.in/api?id=Likeur&icon=0&color=0)](https://visitcount.itsvg.in)
 
+[![wakatime](https://wakatime.com/badge/user/018beec1-60d3-4470-b8f4-14f7c33c2029.svg)](https://wakatime.com/@018beec1-60d3-4470-b8f4-14f7c33c2029)
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
