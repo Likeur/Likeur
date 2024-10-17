@@ -27,6 +27,8 @@ I have 1 year of experience in front-end web development with web technologies u
 
 -
 
+[![An image of @likeur's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/likeur)](https://holopin.io/@likeur)
+
 - 👯 I’m looking to collaborate on <br>  <br>
 
 - Some excited project in frontend developement <br>
