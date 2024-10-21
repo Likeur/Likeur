@@ -39,7 +39,7 @@ More focuse on front-end web development with web technologies using HTML, CSS, 
 ## Languages 
 
 -French (Fluent)
--English (Intermediate level)
+-English (B2)
 
 
 ## 🌐 Socials:
