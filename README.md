@@ -16,7 +16,7 @@ and modern design
 
 based in DRC, i'm an undergraduated student actually in 4e licence in computer science
 more specificaly in Système informations, i start my journey as a creative frontend developer since January 2023, 
-and now i gained a  lot of concept and skills about frontend development, i'm apart of the github global campus and
+and now i gained  a  lot of concept and skills about frontend development, i'm apart of the github global campus and
 Google developer student club, i'm a passionate about code and web developement in general 
 
 More focuse on front-end web development with web technologies using HTML, CSS, Javascript, Tailwind CSS, Angular. I also have experience in creative front-end web development such as animation and transition using javascript librairies like GSAP, Lenis, BARBAJS, and also in integration of web templates. I've designed and developed user friendly and completely clean interfaces. I look forward to working with you soon.
