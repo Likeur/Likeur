@@ -26,7 +26,7 @@ More focuse on front-end web development with web technologies using HTML, CSS, 
 ## Favorite Language : Javascript / TypeScript
 ## Frontend Frameworks : Angular , Tailwindcss
 ## Frontend Technos : Html , Css
-## Backend : FireBase, supase
+## Backend : FireBase, supabase
 ## Animation : GSAP
 ## Maquettage : Figma and Adobe XD
 
