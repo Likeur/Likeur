@@ -12,7 +12,7 @@ https://lkdev.vercel.app
 ## creative frontend developer 👋
 
 creating user friendly website and web application,  focusing on user experience
-and modern design 
+and modern design | contribute to Tailus ui
 
 based in DRC, i'm an undergraduated student actually in 4e licence in computer science
 more specificaly in Système informations, i start my journey as a creative frontend developer since January 2023, 
