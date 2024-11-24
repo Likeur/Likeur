@@ -40,6 +40,7 @@ More focuse on front-end web development with web technologies using HTML, CSS, 
 
 -French (Fluent)
 -English (B2)
+-Swahili (Fluent)
 
 
 ## 🌐 Socials:
