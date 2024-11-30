@@ -9,7 +9,7 @@ Before we start : take a look at my online portfolio
 https://lkdev.vercel.app
 
 # Hi there i"m Likeur 
-## creative frontend developer 👋
+## frontend developer and brand designer 👋
 
 creating user friendly website and web application,  focusing on user experience
 and modern design | contribute to Tailus ui
