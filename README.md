@@ -29,6 +29,7 @@ More focuse on front-end web development with web technologies using HTML, CSS, 
 ## Backend : FireBase, supabase
 ## Animation : GSAP
 ## Maquettage : Figma and Adobe XD
+## Designing : Photoshop & illustrator
 
 -
 # My hacktoberfest badges
