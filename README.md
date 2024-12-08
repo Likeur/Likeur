@@ -4,7 +4,7 @@
 
 
 
-Before you start reading : take a look at my online portfolio
+Before you start reading my resume : take a look at my online portfolio
 
 https://lkdev.vercel.app
 
