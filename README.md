@@ -14,7 +14,7 @@ https://lkdev.vercel.app
 creating user friendly website and web application,  focusing on user experience
 and modern design | contribute to Tailus ui
 
-based in DRC, i'm an undergraduated student actually in 4e licence in computer science
+based in DRC(democratic republic of congo), i'm an undergraduated student actually in 4e licence in computer science
 more specificaly in Système informations, i start my journey as a creative frontend developer since January 2023, 
 and now i gained  a  lot of concept and skills about frontend development, i'm apart of the github global campus and
 Google developer student club, i'm a passionate about code and web developement in general 
