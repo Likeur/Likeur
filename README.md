@@ -4,15 +4,20 @@
 
 
 
-Before you start reading my resume : take a look at my online portfolio
+Before you start reading my resume : take a look at my online portfolio where you can find a great presentation of my work.
 
-https://lkdev.vercel.app
+https://portfolio.likeuroff.com
 
-# Hi there i"m Likeur 
-## frontend developer and brand designer 👋
+i also love to write technical articles in the tech era , considere take a look at my tech blog down here 👍
 
-creating user friendly website and web application,  focusing on user experience
-and modern design | contribute to Tailus ui
+https://blog.likeuroff.com
+
+### Defining myself as a Frontend developer and brand designer
+
+My mains frontend technos are Angular and Tailwindcss  
+
+I create user friendly website and web applications interfaces,  focusing on user experience
+and modern design | i also contribute to Tailus ui, a collection of UIs tools for developers.
 
 based in DRC(democratic republic of congo), i'm an undergraduated student actually in 4e licence in computer science
 more specificaly in Système informations, i start my journey as a creative frontend developer since January 2023, 
