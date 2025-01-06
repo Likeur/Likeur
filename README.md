@@ -8,7 +8,7 @@ Before you start reading my resume : take a look at my online portfolio where yo
 
 https://portfolio.likeuroff.com
 
-i also love to write technical articles in the tech era , considere take a look at my tech blog down here 👍
+i also love to write technical articles in the tech era , considere take a look at my tech blog down here 👍, i write one article every week 
 
 https://blog.likeuroff.com
 
