@@ -4,7 +4,7 @@
 
 
 
-Before you start reading my resume : take a look at my online portfolio where you can find a great presentation of my work.
+Before you start reading my resume : take a look at my online 2024 portfolio where you can find a great presentation of my work.
 
 https://portfolio.likeuroff.com
 
