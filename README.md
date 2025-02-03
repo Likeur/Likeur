@@ -4,17 +4,20 @@
 
 
 
+
+I'm a passionate frontend developer and an [awwward young jury](https://www.awwwards.com/jury-member/Likeur_off) from DRC.
+
 Before you start reading my resume : take a look at my online 2024 portfolio where you can find a great presentation of my work.
 
-https://portfolio.likeuroff.com
+[Click here to see my 2024 portfolio](https://portfolio.likeuroff.com)
 
 i also love to write technical articles in the tech era , considere take a look at my tech blog down here 👍, i write one article every week 
 
-https://blog.likeuroff.com
+[Clic here to see my blog](https://blog.likeuroff.com)
 
 and i run a website development agency, discover some of my offers here
 
-https://agency.likeuroff.com
+[clic here to see my offers](https://agency.likeuroff.com)
 
 ### Defining myself as a Frontend developer and brand designer
 
