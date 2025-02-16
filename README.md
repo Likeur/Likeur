@@ -21,7 +21,7 @@ and i run a website development agency, discover some of my offers here
 
 ### Defining myself as a Frontend developer and brand designer
 
-My mains frontend technos are Angular and Tailwindcss  
+My mains frontend technos are Angular, Tailwindcss  & Gsap for animations 
 
 I create user friendly website and web applications interfaces,  focusing on user experience
 and modern design | i also contribute to Tailus ui, a collection of UIs tools for developers.
