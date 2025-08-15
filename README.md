@@ -9,13 +9,13 @@ Frontend DevelopmentI love bringing ideas to life through code, crafting respons
 ## 🛠️ My Toolkit
 
 - Frontend Development
-  -- Languages: JavaScript (ES6+), TypeScript, HTML5, CSS3Frameworks/
-  -- Libraries: Tailwindcss, Vitejs, Angular Styling: Tailwind CSS, Styled Components, SASS/LESSTools: Webpack, Vite, Git, npm/yarn, Figma
+  * Languages: JavaScript (ES6+), TypeScript, HTML5, CSS3Frameworks/
+  * Libraries: Tailwindcss, Vitejs, Angular Styling: Tailwind CSS, Styled Components, SASS/LESSTools: Webpack, Vite, Git, npm/yarn, Figma
   
 - Cybersecurity
-  -- ResearchConcepts: Network Security, Web Application Security, Incident Response, Threat Intelligence, Penetration Testing, OSINT and more.
-  -- Tools: Wireshark, Nmap, Metasploit, Burp Suite, Kali Linux
-  -- Languages: Python (for scripting and automation), Bash
+  * ResearchConcepts: Network Security, Web Application Security, Incident Response, Threat Intelligence, Penetration Testing, OSINT and more.
+  * Tools: Wireshark, Nmap, Metasploit, Burp Suite, Kali Linux
+  * Languages: Python (for scripting and automation), Bash
 
 ## 🎓 Education
 
