@@ -1,47 +1,29 @@
+## 👋 Hi there! I'm Likeur
 
+A highly passionate Frontend Developer and a curious Cybersecurity Researcher, I thrive at the intersection of creating intuitive user experiences and safeguarding digital landscapes. With a Bachelor's degree in Computer Science and a deep focus on Information Systems, I bring a holistic understanding of networks, Systems, technologies, from the pixel-perfect UI to the robust security protocols underneath.
 
-![Blue and White Abstract Technology LinkedIn Banner (1)](https://github.com/user-attachments/assets/48c6bad9-a6a3-439d-988c-e10189c320c9)
+## 🚀 What I Do
 
+Frontend DevelopmentI love bringing ideas to life through code, crafting responsive, performant, and user-friendly web applications. My goal is to build beautiful interfaces that are a joy to interact with, ensuring seamless experiences across all devices.Cybersecurity ResearchDriven by a relentless curiosity, I delve into the complexities of information systems security. My skills involves identifying vulnerabilities, understanding attack vectors, and developing strategies to protect data and infrastructure from evolving cyber threats.Currently exploring how machine learning can help in the world of cybersecurity to detect, classified, and make predictions on a larger network. my academic research was : `implementation of a tool based on machine learning for detections and preventions of ddos attacks.`
 
+## 🛠️ My Toolkit
 
+- Frontend Development
+  -- Languages: JavaScript (ES6+), TypeScript, HTML5, CSS3Frameworks/
+  -- Libraries: Tailwindcss, Vitejs, Angular Styling: Tailwind CSS, Styled Components, SASS/LESSTools: Webpack, Vite, Git, npm/yarn, Figma
+  
+- Cybersecurity
+  -- ResearchConcepts: Network Security, Web Application Security, Incident Response, Threat Intelligence, Penetration Testing, OSINT and more.
+  -- Tools: Wireshark, Nmap, Metasploit, Burp Suite, Kali Linux
+  -- Languages: Python (for scripting and automation), Bash
 
-I'm a passionate frontend developer and an [awwward young jury](https://www.awwwards.com/jury-member/Likeur_off) from DRC.
+## 🎓 Education
 
-Before you start reading my resume : take a look at my online 2024 portfolio where you can find a great presentation of my work.
+Bachelor of Science in Computer Science
+Focus: Information Systems
+[Protestant University of Lubumbashi] | [2025]🤝 
 
-[Click here to see my 2024 portfolio](https://portfolio.likeuroff.com)
-
-i also love to write technical articles in the tech era , considere take a look at my tech blog down here 👍, i write one article every week 
-
-[Clic here to see my blog](https://blog.likeuroff.com)
-
-and i run a website development agency, discover some of my offers here
-
-[clic here to see my offers](https://agency.likeuroff.com)
-
-### Defining myself as a Frontend developer and brand designer
-
-My mains frontend technos are Angular, Tailwindcss  & Gsap for animations 
-
-I create user friendly website and web applications interfaces,  focusing on user experience
-and modern design | i also contribute to Tailus ui, a collection of UIs tools for developers.
-
-based in DRC(democratic republic of congo), i'm an undergraduated student actually in 4e licence in computer science
-more specificaly in Système informations, i start my journey as a creative frontend developer since January 2023, 
-and now i gained  a  lot of concept and skills about frontend development, i'm apart of the github global campus and
-Google developer student club, i'm a passionate about code and web developement in general 
-
-More focuse on front-end web development with web technologies using HTML, CSS, Javascript, Tailwind CSS, Angular. I also have experience in creative front-end web development such as animation and transition using javascript librairies like GSAP, Lenis, BARBAJS, and also in integration of web templates. I've designed and developed user friendly and completely clean interfaces. I look forward to working with you soon.
-
-# 💫 interesting :
-
-## Favorite Language : Javascript / TypeScript
-## Frontend Frameworks : Angular , Tailwindcss
-## Frontend Technos : Html , Css
-## Backend : FireBase
-## Animation : GSAP
-## Maquettage : Figma and Adobe XD
-## Designing : Photoshop & illustrator
+Let's Connect! I'm always eager to collaborate on exciting projects, discuss new technologies, or share insights on cybersecurity trends. Feel free to reach out!
 
 -
 # My hacktoberfest badges
@@ -52,7 +34,7 @@ More focuse on front-end web development with web technologies using HTML, CSS, 
 ## Languages 
 
 -French (Fluent)
--English (B2)
+-English (B2- upperintermediate)
 -Swahili (Fluent)
 
 
