@@ -19,9 +19,10 @@ Frontend DevelopmentI love bringing ideas to life through code, crafting respons
 
 ## 🎓 Education
 
-Bachelor of Science in Computer Science
-Focus: Information Systems
-[Protestant University of Lubumbashi] | [2025]🤝 
+- Bachelor of Science in Computer Science
+- Focus: Information Systems
+  
+- [Protestant University of Lubumbashi] | [2025]🤝 
 
 Let's Connect! I'm always eager to collaborate on exciting projects, discuss new technologies, or share insights on cybersecurity trends. Feel free to reach out!
 
