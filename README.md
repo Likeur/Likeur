@@ -4,7 +4,13 @@ A highly passionate Frontend Developer and a curious Cybersecurity Researcher, I
 
 ## 🚀 What I Do
 
-Frontend DevelopmentI love bringing ideas to life through code, crafting responsive, performant, and user-friendly web applications. My goal is to build beautiful interfaces that are a joy to interact with, ensuring seamless experiences across all devices.Cybersecurity ResearchDriven by a relentless curiosity, I delve into the complexities of information systems security. My skills involves identifying vulnerabilities, understanding attack vectors, and developing strategies to protect data and infrastructure from evolving cyber threats.Currently exploring how machine learning can help in the world of cybersecurity to detect, classified, and make predictions on a larger network. my academic research was : `implementation of a tool based on machine learning for detections and preventions of ddos attacks.`
+- Frontend Development
+
+I love bringing ideas to life through code, crafting responsive, performant, and user-friendly web applications. My goal is to build beautiful interfaces that are a joy to interact with, ensuring seamless experiences across all devices.
+
+- Cybersecurity Research
+
+Driven by a relentless curiosity, I delve into the complexities of information systems security. My skills involves identifying vulnerabilities, understanding attack vectors, and developing strategies to protect data and infrastructure from evolving cyber threats.Currently exploring how machine learning can help in the world of cybersecurity to detect, classified, and make predictions on a larger network. my academic research was : `implementation of a tool based on machine learning for detections and preventions of ddos attacks.`
 
 ## 🛠️ My Toolkit
 
